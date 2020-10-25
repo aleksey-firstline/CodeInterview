@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Xunit;
 
-namespace CodeInterview
+namespace CodeInterview.SlidingWindow
 {
     public class LengthOfLongestNoRepeatSubstring
     {

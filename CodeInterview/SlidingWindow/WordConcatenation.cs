@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace CodeInterview
+namespace CodeInterview.SlidingWindow
 {
     public class WordConcatenation
     {

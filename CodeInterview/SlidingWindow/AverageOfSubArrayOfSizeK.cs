@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace CodeInterview
+namespace CodeInterview.SlidingWindow
 {
     public class AverageOfSubArrayOfSizeK
     {

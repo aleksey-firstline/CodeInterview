@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 
-namespace CodeInterview
+namespace CodeInterview.SlidingWindow
 {
     public class LongestSubstringKReplacement
     {
